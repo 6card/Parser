@@ -1,0 +1,5 @@
+vendor/*
+cache/*
+.vscode/*
+composer.lock
+composer.phar
